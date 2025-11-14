@@ -26,10 +26,11 @@ This project helped me strengthen my knowledge in:
 
 ---
 
-# Project Overview (Mandatory & Bonus)
+# Project Overview
 
 The project is divided into two parts: **mandatory** and **bonus**.
 
+---
 ## 📚 Mandatory Part
 
 The main function to implement is:
@@ -38,7 +39,7 @@ The main function to implement is:
 char *get_next_line(int fd);
 ```
 
-### 🎯 Goal
+ *🎯 Goal*
 
 Create a function that **returns one line per call**, reading from a file descriptor until no data remains.
 The function must:
