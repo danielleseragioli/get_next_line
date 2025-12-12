@@ -21,7 +21,7 @@ This project helped me strengthen my knowledge in:
 ✅ Project completed 125% successfully as part of my 42 journey.<br>
 💻 **Language:** C
 <br><br>
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp">
+<img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png">
 <br>
 
 ---
