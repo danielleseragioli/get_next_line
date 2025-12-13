@@ -31,7 +31,7 @@ This project helped me strengthen my knowledge in:
 The project is divided into two parts: **mandatory** and **bonus**.
 
 ---
-## 📚 Mandatory Part
+## Mandatory Part
 
 The main function to implement is:
 
@@ -39,7 +39,7 @@ The main function to implement is:
 char *get_next_line(int fd);
 ```
 
- *🎯 Goal*
+*Goal*
 
 Create a function that **returns one line per call**, reading from a file descriptor until no data remains.
 The function must:
@@ -50,7 +50,7 @@ The function must:
 * Correctly return `NULL` at EOF
 * Handle partial reads, fragmented lines, and dynamic memory
 
-### ⚙️ Function Logic Overview
+### Function Logic Overview
 
 | Category            | Description                                                            | Internal Logic / Examples                              | Allowed Functions        |
 | ------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------ |
@@ -64,7 +64,7 @@ The function must:
 
 The bonus extends the function to support **multiple file descriptors simultaneously**, without cross-interference.
 
-### 🎯 Bonus Objectives
+### Bonus Objectives
 
 * Maintain a separate stash for each file descriptor
 * Handle alternating reads between different FDs
@@ -78,7 +78,7 @@ The bonus extends the function to support **multiple file descriptors simultaneo
 
 ---
 
-# 🧩 Concepts Reinforced
+# Concepts Reinforced
 
 * Dynamic memory management
 * Buffer handling and incremental reads
